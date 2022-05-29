@@ -57,7 +57,7 @@ function reverse(arr) {
     return array;
 }
 var result = reverse(["a", "b", "c", "d", "e"]);
-console.log(result); // we expect back ["e", "d", "c", "b", "a"]
+console.log(result);
 
 
 // 5
